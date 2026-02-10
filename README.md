@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishgobi" alt="krishgobi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">< </p>
 
 - 💬 Ask me about **Python, Java, Machine Learning, Django, FastAPI, Flask, MongoDB, SQL, GenAI, Fine-tuning**
 
@@ -23,6 +23,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishgobi&show_icons=true&locale=en" alt="krishgobi" /></p>
+<p>&nbsp;</p>
 
 
